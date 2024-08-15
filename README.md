@@ -10,3 +10,4 @@ This Power BI dashboard provides comprehensive insights. The dashboard integrate
 - **Data Filters**: Users can filter data based on various parameters to view specific insights.
 - **Performance Metrics**: Key performance indicators (KPIs) and metrics are displayed to gauge overall performance.
 - **Customizable Views**: Users can customize views to focus on specific aspects of the data.
+
